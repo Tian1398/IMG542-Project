@@ -43,9 +43,7 @@ Limitations
 3. This application needs a more user-friendly interface, so that the user could transform their data by clicking their mouse rather than running the program.
 
 
-IMG542-Project Future Test Plan
-
-Desired outcomes:
+Project Future Test Plan - Desired outcomes:
 1. The data is manipulated correctly while maintaining original values.
 2. Users can download the transformed data in their desired formats (JSON or Excel).
 3. Report issues or errors promptly.
